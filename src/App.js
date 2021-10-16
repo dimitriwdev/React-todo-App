@@ -85,7 +85,6 @@ const App = () => {
     setTodos(newTodos);
   };
 
-  console.log(todos)
   return (
     <div className="app">
       <h1 className='title'>{title}</h1>
